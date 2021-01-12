@@ -1,4 +1,4 @@
-# platzi_trips_app
+# My First App
 
 A new Flutter project.
 
