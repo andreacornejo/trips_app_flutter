@@ -50,7 +50,7 @@ class ButtonPurple extends StatelessWidget{
           child: Text(
             buttonText,
             style: TextStyle(
-              fontSize: 10.0,
+              fontSize: 14.0,
               fontFamily: "Lato",
               color: Colors.white
             ),
